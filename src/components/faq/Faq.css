@@ -1,0 +1,12 @@
+div.container.faq {
+    max-width: 600px;
+    color: red;
+}
+
+.faq h2 {
+    margin-top: 0.5rem;
+}
+
+.title p {
+    width: 80%;
+}
